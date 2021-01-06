@@ -6,7 +6,7 @@ beautifulsoup4==4.5.1
 biopython==1.67
 bleach==2.0.0
 cairocffi==0.7.2
-CairoSVG==1.0.22
+CairoSVG==2.5.1
 cellnopt.core==1.0.0
 cellnopt.data==1.0.3
 certifi==2016.8.8
