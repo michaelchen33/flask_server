@@ -51,7 +51,7 @@ jupyter-core==4.1.1
 jupyterthemes==0.13.7
 labkey==0.4.2
 lesscpy==0.12.0
-lxml==3.6.4
+lxml==4.6.2
 MarkupSafe==0.23
 matplotlib==1.4.3
 matplotlib-venn==0.11
