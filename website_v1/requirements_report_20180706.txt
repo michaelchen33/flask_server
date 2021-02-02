@@ -4,7 +4,7 @@ backports.shutil-get-terminal-size==1.0.0
 backports.ssl-match-hostname==3.5.0.1
 beautifulsoup4==4.5.1
 biopython==1.67
-bleach==2.0.0
+bleach==3.3.0
 cairocffi==0.7.2
 CairoSVG==1.0.22
 cellnopt.core==1.0.0
